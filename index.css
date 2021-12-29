@@ -1,0 +1,96 @@
+/* ROOT */
+:root {
+    background: white;
+    font-family: "Nunito", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue";
+    text-align: justify;
+  }
+#margin_left{
+    margin-left:  30px;
+    margin-right: 30px;
+}
+/* HEADER */
+#header{
+    background: white;
+    color: black;
+    font-weight: 400;
+}
+#btnlogin{
+    color: black;
+    background: white;
+    border: none;
+}
+#btnlogin:hover{
+    background: black;
+    color: white;
+}
+#title{
+    color: black;
+}
+#logo_bg{
+    background: white;
+    color: black;
+}
+/* HERO SLIDER */
+#Hero_Slider{
+    color: black;
+    background: white;
+}
+#h1_title{
+    color: Black;
+    margin-left: 25px;
+}
+#text{
+    color: black;
+}
+/* TESTMONIAL */
+#card{
+    color: black;
+    background: white;
+}
+#background{
+    color: black;
+}
+#about{
+    margin-left: 25px;
+    text-align: justify;
+}
+/* FOOTER */
+#footer{
+    color: black;
+}
+#logo_background{
+    background-color: black;
+}
+#text_white{
+    color: white;
+}
+#card_align{
+    
+    margin-left:10% ;
+    /* margin-right: 20%; */
+}
+
+/*********** VIDEO ************/
+.video-container {
+    opacity: .25;
+}
+
+.flex-container {
+    position: relative;
+}
+
+.flex-text-container {
+    position: absolute;
+    top: 40%;
+    left: 25%;
+    color: #FEFEFE;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    width: 50%;
+}
+/* Button */
+#Button{
+    background: black;
+    color: white;
+}
