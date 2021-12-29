@@ -1,4 +1,8 @@
 # doctor-appointment-system
+You must install XAMP for this project.
+Store this project in xamp/htdocs folder.
+
+
 Consult a doctor,buy medicines,suggestions for some medicines.
 
 
